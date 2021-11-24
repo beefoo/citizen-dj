@@ -1,0 +1,3370 @@
+{
+    "packages": [
+        {
+            "filename": "indiana.edu_china-laufer_mp3.zip",
+            "label": "Download in 192 Kbps .mp3 format",
+            "size": "103.6mb",
+            "comment": "Ideal if you would just like to preview and browse this collection"
+        },
+        {
+            "filename": "indiana.edu_china-laufer_wav.zip",
+            "label": "Download in 16-bit .wav format",
+            "size": "487.4mb",
+            "comment": "Ideal for production"
+        }
+    ],
+    "clips": [],
+    "items": [
+        {
+            "id": "2961",
+            "title": "\"Guang Xin Kai\" (unknown meaning)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bk128s11j?t=0.0,173.0#bk128s11j-1",
+            "clips": [
+                {
+                    "filename": "Guang-Xin-Kai-unknown-meaning_2961_001_00-00-59",
+                    "timeStamp": "00:59",
+                    "start": 60000
+                }
+            ]
+        },
+        {
+            "id": "2962",
+            "title": "\"Guang Xin Kai\" (unknown meaning)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qj72pp67s?t=0.0,171.0#qj72pp67s-1",
+            "clips": [
+                {
+                    "filename": "Guang-Xin-Kai-unknown-meaning_2962_001_00-00-21",
+                    "timeStamp": "00:21",
+                    "start": 22000
+                }
+            ]
+        },
+        {
+            "id": "2963",
+            "title": "\"Guang Xin Kai\" (unknown meaning)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/fn107d618?t=0.0,170.0#fn107d618-1",
+            "clips": [
+                {
+                    "filename": "Guang-Xin-Kai-unknown-meaning_2963_001_00-00-55",
+                    "timeStamp": "00:55",
+                    "start": 56000
+                }
+            ]
+        },
+        {
+            "id": "2964",
+            "title": "\"Guang Xin Kai\" (unknown meaning)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/gt54m334r?t=0.0,166.0#gt54m334r-1",
+            "clips": [
+                {
+                    "filename": "Guang-Xin-Kai-unknown-meaning_2964_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "3082",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/sb397q44n?t=0.0,141.0#sb397q44n-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3082_001_00-01-35",
+                    "timeStamp": "01:35",
+                    "start": 96000
+                }
+            ]
+        },
+        {
+            "id": "3083",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vh53xb201?t=0.0,142.0#vh53xb201-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3083_001_00-02-03",
+                    "timeStamp": "02:03",
+                    "start": 124000
+                }
+            ]
+        },
+        {
+            "id": "3084",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3f462n40g?t=0.0,138.0#3f462n40g-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3084_001_00-01-30",
+                    "timeStamp": "01:30",
+                    "start": 91000
+                }
+            ]
+        },
+        {
+            "id": "3085",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/n8710646x?t=0.0,141.0#n8710646x-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3085_001_00-00-14",
+                    "timeStamp": "00:14",
+                    "start": 15000
+                }
+            ]
+        },
+        {
+            "id": "3086",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2n49tg95m?t=0.0,144.0#2n49tg95m-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3086_001_00-00-56",
+                    "timeStamp": "00:56",
+                    "start": 57000
+                }
+            ]
+        },
+        {
+            "id": "3089",
+            "title": "\"He Qin Wu Geng\" (Drinking the Nupital Cup)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pn89dn690?t=0.0,140.0#pn89dn690-1",
+            "clips": [
+                {
+                    "filename": "He-Qin-Wu-Geng-Drinking-the-Nupital-Cup_3089_001_00-01-06",
+                    "timeStamp": "01:06",
+                    "start": 67000
+                }
+            ]
+        },
+        {
+            "id": "2738",
+            "title": "\"Hui Long E\" (\"Meeting Dragon's Forehead\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9593v936j?t=0.0,179.0#9593v936j-1",
+            "clips": [
+                {
+                    "filename": "Hui-Long-E-Meeting-Dragons-Forehead_2738_001_00-00-15",
+                    "timeStamp": "00:15",
+                    "start": 16000
+                }
+            ]
+        },
+        {
+            "id": "3021",
+            "title": "\"Ji N\u00fc Gao Zhuang\" (\"A Prostitute Makes an Accusation\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/nv935j589?t=0.0,192.0#nv935j589-1",
+            "clips": [
+                {
+                    "filename": "Ji-N-Gao-Zhuang-A-Prostitute-Makes-an-Accusation_3021_001_00-01-12",
+                    "timeStamp": "01:12",
+                    "start": 73000
+                }
+            ]
+        },
+        {
+            "id": "3022",
+            "title": "\"Ji N\u00fc Gao Zhuang\" (\"A Prostitute Makes an Accusation\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tx31qz98x?t=0.0,175.0#tx31qz98x-1",
+            "clips": [
+                {
+                    "filename": "Ji-N-Gao-Zhuang-A-Prostitute-Makes-an-Accusation_3022_001_00-00-05",
+                    "timeStamp": "00:05",
+                    "start": 6000
+                }
+            ]
+        },
+        {
+            "id": "3023",
+            "title": "\"Ji N\u00fc Gao Zhuang\" (\"A Prostitute Makes an Accusation\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1c18dx90t?t=0.0,187.0#1c18dx90t-1",
+            "clips": [
+                {
+                    "filename": "Ji-N-Gao-Zhuang-A-Prostitute-Makes-an-Accusation_3023_001_00-02-35",
+                    "timeStamp": "02:35",
+                    "start": 156000
+                }
+            ]
+        },
+        {
+            "id": "2740",
+            "title": "\"Kong Cheng Ji\" (\"Empty Fort Strategy\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g445cv51d?t=0.0,160.0#g445cv51d-1",
+            "clips": [
+                {
+                    "filename": "Kong-Cheng-Ji-Empty-Fort-Strategy_2740_001_00-02-25",
+                    "timeStamp": "02:25",
+                    "start": 146000
+                }
+            ]
+        },
+        {
+            "id": "2726",
+            "title": "\"Mu Yang Juan\" (\"The Sheep Fence\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/37720v53s?t=0.0,199.0#37720v53s-1",
+            "clips": [
+                {
+                    "filename": "Mu-Yang-Juan-The-Sheep-Fence_2726_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2727",
+            "title": "\"Mu Yang Juan\" (\"The Sheep Fence\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2227n484h?t=0.0,189.0#2227n484h-1",
+            "clips": [
+                {
+                    "filename": "Mu-Yang-Juan-The-Sheep-Fence_2727_001_00-01-10",
+                    "timeStamp": "01:10",
+                    "start": 71000
+                }
+            ]
+        },
+        {
+            "id": "2728",
+            "title": "\"Mu Yang Juan\" (\"The Sheep Fence\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/b5645728v?t=0.0,196.0#b5645728v-1",
+            "clips": [
+                {
+                    "filename": "Mu-Yang-Juan-The-Sheep-Fence_2728_001_00-01-04",
+                    "timeStamp": "01:04",
+                    "start": 65000
+                }
+            ]
+        },
+        {
+            "id": "3053",
+            "title": "\"Nan Shi Bei Jiu Song Qing Lang\" (Hard to Raise the Glass of Wine to Send Off Her Lover)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/m613nd077?t=0.0,144.0#m613nd077-1",
+            "clips": [
+                {
+                    "filename": "Nan-Shi-Bei-Jiu-Song-Qing-Lang-Hard-to-Raise-the-Glass-of-Wine-to-Send-Off-Her-Lover_3053_001_00-01-32",
+                    "timeStamp": "01:32",
+                    "start": 93000
+                }
+            ]
+        },
+        {
+            "id": "3055",
+            "title": "\"Nan Shi Bei Jiu Song Qing Lang\" (Hard to Raise the Glass of Wine to Send Off Her Lover)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/jh344784m?t=0.0,145.0#jh344784m-1",
+            "clips": [
+                {
+                    "filename": "Nan-Shi-Bei-Jiu-Song-Qing-Lang-Hard-to-Raise-the-Glass-of-Wine-to-Send-Off-Her-Lover_3055_001_00-00-06",
+                    "timeStamp": "00:06",
+                    "start": 7000
+                }
+            ]
+        },
+        {
+            "id": "3056",
+            "title": "\"Nan Shi Bei Jiu Song Qing Lang\" (Hard to Raise the Glass of Wine to Send Off Her Lover)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6d570c47p?t=0.0,146.0#6d570c47p-1",
+            "clips": [
+                {
+                    "filename": "Nan-Shi-Bei-Jiu-Song-Qing-Lang-Hard-to-Raise-the-Glass-of-Wine-to-Send-Off-Her-Lover_3056_001_00-01-59",
+                    "timeStamp": "01:59",
+                    "start": 120000
+                }
+            ]
+        },
+        {
+            "id": "3057",
+            "title": "\"Nan Shi Bei Jiu Song Qing Lang\" (Hard to Raise the Glass of Wine to Send Off Her Lover)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1r66jg735?t=0.0,134.0#1r66jg735-1",
+            "clips": [
+                {
+                    "filename": "Nan-Shi-Bei-Jiu-Song-Qing-Lang-Hard-to-Raise-the-Glass-of-Wine-to-Send-Off-Her-Lover_3057_001_00-00-45",
+                    "timeStamp": "00:45",
+                    "start": 46000
+                }
+            ]
+        },
+        {
+            "id": "3101",
+            "title": "\"Piao Ke Bei Shang\" (\"The Sorrow of a Brothel Frequenter\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1g05fs78k?t=0.0,143.0#1g05fs78k-1",
+            "clips": [
+                {
+                    "filename": "Piao-Ke-Bei-Shang-The-Sorrow-of-a-Brothel-Frequenter_3101_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "3102",
+            "title": "\"Piao Ke Bei Shang\" (\"The Sorrow of a Brothel Frequenter\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vq280397b?t=0.0,144.0#vq280397b-1",
+            "clips": [
+                {
+                    "filename": "Piao-Ke-Bei-Shang-The-Sorrow-of-a-Brothel-Frequenter_3102_001_00-00-33",
+                    "timeStamp": "00:33",
+                    "start": 34000
+                }
+            ]
+        },
+        {
+            "id": "3028",
+            "title": "\"Piao Ke Zi Tan\" (\"A Brothel-Frequenter Signs for Himself\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9g54z074z?t=0.0,187.0#9g54z074z-1",
+            "clips": [
+                {
+                    "filename": "Piao-Ke-Zi-Tan-A-Brothel-Frequenter-Signs-for-Himself_3028_001_00-02-30",
+                    "timeStamp": "02:30",
+                    "start": 151000
+                }
+            ]
+        },
+        {
+            "id": "3029",
+            "title": "\"Piao Ke Zi Tan\" (\"A Brothel-Frequenter Signs for Himself\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/j098zs41d?t=0.0,188.0#j098zs41d-1",
+            "clips": [
+                {
+                    "filename": "Piao-Ke-Zi-Tan-A-Brothel-Frequenter-Signs-for-Himself_3029_001_00-00-10",
+                    "timeStamp": "00:10",
+                    "start": 11000
+                }
+            ]
+        },
+        {
+            "id": "3030",
+            "title": "\"Piao Ke Zi Tan\" (\"A Brothel-Frequenter Signs for Himself\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bz60db61r?t=0.0,190.0#bz60db61r-1",
+            "clips": [
+                {
+                    "filename": "Piao-Ke-Zi-Tan-A-Brothel-Frequenter-Signs-for-Himself_3030_001_00-00-20",
+                    "timeStamp": "00:20",
+                    "start": 21000
+                }
+            ]
+        },
+        {
+            "id": "3018",
+            "title": "\"Qie Tiao Cao\" (\"Have to Switch to Another Prostitute Girl\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1v53kb70c?t=0.0,198.0#1v53kb70c-1",
+            "clips": [
+                {
+                    "filename": "Qie-Tiao-Cao-Have-to-Switch-to-Another-Prostitute-Girl_3018_001_00-01-46",
+                    "timeStamp": "01:46",
+                    "start": 107000
+                }
+            ]
+        },
+        {
+            "id": "3019",
+            "title": "\"Qie Tiao Cao\" (\"Have to Switch to Another Prostitute Girl\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kd17d8252?t=0.0,196.0#kd17d8252-1",
+            "clips": [
+                {
+                    "filename": "Qie-Tiao-Cao-Have-to-Switch-to-Another-Prostitute-Girl_3019_001_00-00-58",
+                    "timeStamp": "00:58",
+                    "start": 59000
+                }
+            ]
+        },
+        {
+            "id": "3020",
+            "title": "\"Qie Tiao Cao\" (\"Have to Switch to Another Prostitute Girl\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zp38wv18v?t=0.0,185.0#zp38wv18v-1",
+            "clips": [
+                {
+                    "filename": "Qie-Tiao-Cao-Have-to-Switch-to-Another-Prostitute-Girl_3020_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "3120",
+            "title": "\"Shan Quan Jiu Zi Tan\" (\"Mountain Springs' Nine Self-signs\") [the original documentation contains an unidentifiable character])",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zk51vz325?t=0.0,221.0#zk51vz325-1",
+            "clips": [
+                {
+                    "filename": "Shan-Quan-Jiu-Zi-Tan-Mountain-Springs-Nine-Self-signs-the-original-documentation-contains-an-unidentifiable-character_3120_001_00-02-50",
+                    "timeStamp": "02:50",
+                    "start": 171000
+                }
+            ]
+        },
+        {
+            "id": "3121",
+            "title": "\"Shan Quan Jiu Zi Tan\" (\"Mountain Springs' Nine Self-signs\") [the original documentation contains an unidentifiable character])",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zk51vz33f?t=0.0,232.0#zk51vz33f-1",
+            "clips": [
+                {
+                    "filename": "Shan-Quan-Jiu-Zi-Tan-Mountain-Springs-Nine-Self-signs-the-original-documentation-contains-an-unidentifiable-character_3121_001_00-01-23",
+                    "timeStamp": "01:23",
+                    "start": 84000
+                }
+            ]
+        },
+        {
+            "id": "3060",
+            "title": "\"Shanxi Wu Geng\" (Shanxi at 3AM)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2514p230n?t=0.0,142.0#2514p230n-1",
+            "clips": [
+                {
+                    "filename": "Shanxi-Wu-Geng-Shanxi-at-3AM_3060_001_00-01-09",
+                    "timeStamp": "01:09",
+                    "start": 70000
+                }
+            ]
+        },
+        {
+            "id": "3041",
+            "title": "\"Shi Ai Mei N\u00fc\" (\"Loved a Beautiful Girl for Ten Times\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/j3860p23v?t=0.0,181.0#j3860p23v-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ai-Mei-N-Loved-a-Beautiful-Girl-for-Ten-Times_3041_001_00-01-26",
+                    "timeStamp": "01:26",
+                    "start": 87000
+                }
+            ]
+        },
+        {
+            "id": "3042",
+            "title": "\"Shi Ai Mei N\u00fc\" (\"Loved a Beautiful Girl for Ten Times\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4q77g640w?t=0.0,183.0#4q77g640w-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ai-Mei-N-Loved-a-Beautiful-Girl-for-Ten-Times_3042_001_00-02-04",
+                    "timeStamp": "02:04",
+                    "start": 125000
+                }
+            ]
+        },
+        {
+            "id": "3043",
+            "title": "\"Shi Ai Mei N\u00fc\" (\"Loved a Beautiful Girl for Ten Times\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ft849570r?t=0.0,193.0#ft849570r-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ai-Mei-N-Loved-a-Beautiful-Girl-for-Ten-Times_3043_001_00-00-53",
+                    "timeStamp": "00:53",
+                    "start": 54000
+                }
+            ]
+        },
+        {
+            "id": "2743",
+            "title": "\"Shi Ba Mo\" (Eighteen Touch)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/h702qp07z?t=0.0,192.0#h702qp07z-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ba-Mo-Eighteen-Touch_2743_001_00-02-31",
+                    "timeStamp": "02:31",
+                    "start": 152000
+                }
+            ]
+        },
+        {
+            "id": "2744",
+            "title": "\"Shi Ba Mo\" (Eighteen Touch)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g445cv52p?t=0.0,200.0#g445cv52p-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ba-Mo-Eighteen-Touch_2744_001_00-01-15",
+                    "timeStamp": "01:15",
+                    "start": 76000
+                }
+            ]
+        },
+        {
+            "id": "2745",
+            "title": "\"Shi Ba Mo\" (Eighteen Touch)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/w3763p01k?t=0.0,127.0#w3763p01k-1",
+            "clips": [
+                {
+                    "filename": "Shi-Ba-Mo-Eighteen-Touch_2745_001_00-01-11",
+                    "timeStamp": "01:11",
+                    "start": 72000
+                }
+            ]
+        },
+        {
+            "id": "2951",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6m312482j?t=0.0,157.0#6m312482j-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_2951_001_00-00-17",
+                    "timeStamp": "00:17",
+                    "start": 18000
+                }
+            ]
+        },
+        {
+            "id": "2952",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/w0892s58g?t=0.0,166.0#w0892s58g-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_2952_001_00-01-59",
+                    "timeStamp": "01:59",
+                    "start": 120000
+                }
+            ]
+        },
+        {
+            "id": "3015",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/db78tt54b?t=0.0,187.0#db78tt54b-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3015_001_00-02-49",
+                    "timeStamp": "02:49",
+                    "start": 170000
+                }
+            ]
+        },
+        {
+            "id": "3016",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zk51vz31w?t=0.0,189.0#zk51vz31w-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3016_001_00-02-19",
+                    "timeStamp": "02:19",
+                    "start": 140000
+                }
+            ]
+        },
+        {
+            "id": "3017",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/d791sx706?t=0.0,192.0#d791sx706-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3017_001_00-02-20",
+                    "timeStamp": "02:20",
+                    "start": 141000
+                }
+            ]
+        },
+        {
+            "id": "3063",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6395wp75q?t=0.0,144.0#6395wp75q-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3063_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "3065",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2z10x5828?t=0.0,144.0#2z10x5828-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3065_001_00-00-14",
+                    "timeStamp": "00:14",
+                    "start": 15000
+                }
+            ]
+        },
+        {
+            "id": "3066",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0g354w532?t=0.0,143.0#0g354w532-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3066_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2949",
+            "title": "\"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts) (meaning \"ten\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4q77g6394?t=0.0,174.0#4q77g6394-1",
+            "clips": [
+                {
+                    "filename": "Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts-meaning-ten_2949_001_00-01-45",
+                    "timeStamp": "01:45",
+                    "start": 106000
+                }
+            ]
+        },
+        {
+            "id": "3007",
+            "title": "\"Shi Cai Hua\" (\"Pick Flowers Ten Times\"). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/gx41mz62s?t=0.0,172.0#gx41mz62s-1",
+            "clips": [
+                {
+                    "filename": "Shi-Cai-Hua-Pick-Flowers-Ten-Times-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3007_001_00-02-16",
+                    "timeStamp": "02:16",
+                    "start": 137000
+                }
+            ]
+        },
+        {
+            "id": "3008",
+            "title": "\"Shi Cai Hua\" (\"Pick Flowers Ten Times\"). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kp78gx35w?t=0.0,182.0#kp78gx35w-1",
+            "clips": [
+                {
+                    "filename": "Shi-Cai-Hua-Pick-Flowers-Ten-Times-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3008_001_00-00-02",
+                    "timeStamp": "00:02",
+                    "start": 3000
+                }
+            ]
+        },
+        {
+            "id": "3004",
+            "title": "\"Shi Shuang Hong Xiu Xie\" (\"Ten Pairs of Embroidered Red Shoes\"). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/5m60r7229?t=0.0,183.0#5m60r7229-1",
+            "clips": [
+                {
+                    "filename": "Shi-Shuang-Hong-Xiu-Xie-Ten-Pairs-of-Embroidered-Red-Shoes-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3004_001_00-02-32",
+                    "timeStamp": "02:32",
+                    "start": 153000
+                }
+            ]
+        },
+        {
+            "id": "3005",
+            "title": "\"Shi Shuang Hong Xiu Xie\" (\"Ten Pairs of Embroidered Red Shoes\"). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ww72bs32f?t=0.0,175.0#ww72bs32f-1",
+            "clips": [
+                {
+                    "filename": "Shi-Shuang-Hong-Xiu-Xie-Ten-Pairs-of-Embroidered-Red-Shoes-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3005_001_00-00-11",
+                    "timeStamp": "00:11",
+                    "start": 12000
+                }
+            ]
+        },
+        {
+            "id": "3006",
+            "title": "\"Shi Shuang Hong Xiu Xie\" (\"Ten Pairs of Embroidered Red Shoes\"). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9p290s368?t=0.0,185.0#9p290s368-1",
+            "clips": [
+                {
+                    "filename": "Shi-Shuang-Hong-Xiu-Xie-Ten-Pairs-of-Embroidered-Red-Shoes-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3006_001_00-02-13",
+                    "timeStamp": "02:13",
+                    "start": 134000
+                }
+            ]
+        },
+        {
+            "id": "3013",
+            "title": "\"Shi Yuan Shi Hen\" (\"Picking Regrets, Picking Hate\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/q811m1102?t=0.0,179.0#q811m1102-1",
+            "clips": [
+                {
+                    "filename": "Shi-Yuan-Shi-Hen-Picking-Regrets-Picking-Hate_3013_001_00-01-32",
+                    "timeStamp": "01:32",
+                    "start": 93000
+                }
+            ]
+        },
+        {
+            "id": "3014",
+            "title": "\"Shi Yuan Shi Hen\" (\"Picking Regrets, Picking Hate\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8910k946d?t=0.0,187.0#8910k946d-1",
+            "clips": [
+                {
+                    "filename": "Shi-Yuan-Shi-Hen-Picking-Regrets-Picking-Hate_3014_001_00-02-07",
+                    "timeStamp": "02:07",
+                    "start": 128000
+                }
+            ]
+        },
+        {
+            "id": "3073",
+            "title": "\"Shi Yuan Shi Hen\" (\"Picking Regrets, Picking Hate\"). This is a companion piece of \"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g732dr315?t=0.0,146.0#g732dr315-1",
+            "clips": [
+                {
+                    "filename": "Shi-Yuan-Shi-Hen-Picking-Regrets-Picking-Hate-This-is-a-companion-piece-of-Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts_3073_001_00-01-00",
+                    "timeStamp": "01:00",
+                    "start": 61000
+                }
+            ]
+        },
+        {
+            "id": "3046",
+            "title": "\"Si Ji Cong Liang Hou Hui\" (\"Four Seasons Goes Repenting Then Regretting\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8p58pt90v?t=0.0,186.0#8p58pt90v-1",
+            "clips": [
+                {
+                    "filename": "Si-Ji-Cong-Liang-Hou-Hui-Four-Seasons-Goes-Repenting-Then-Regretting_3046_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "3032",
+            "title": "\"Tan Qing Lang\" (A Visit to Her Lover)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2801px61h?t=0.0,194.0#2801px61h-1",
+            "clips": [
+                {
+                    "filename": "Tan-Qing-Lang-A-Visit-to-Her-Lover_3032_001_00-01-54",
+                    "timeStamp": "01:54",
+                    "start": 115000
+                }
+            ]
+        },
+        {
+            "id": "3067",
+            "title": "\"Tan Shi Sheng\" (\"The Ten Sighs\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ws859x357?t=0.0,139.0#ws859x357-1",
+            "clips": [
+                {
+                    "filename": "Tan-Shi-Sheng-The-Ten-Sighs_3067_001_00-00-08",
+                    "timeStamp": "00:08",
+                    "start": 9000
+                }
+            ]
+        },
+        {
+            "id": "2958",
+            "title": "\"Tan Yan Hua\" (\"Sign the Fireworks\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8k71p0232?t=0.0,167.0#8k71p0232-1",
+            "clips": [
+                {
+                    "filename": "Tan-Yan-Hua-Sign-the-Fireworks_2958_001_00-00-59",
+                    "timeStamp": "00:59",
+                    "start": 60000
+                }
+            ]
+        },
+        {
+            "id": "2959",
+            "title": "\"Tan Yan Hua\" (\"Sign the Fireworks\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/q811m1099?t=0.0,172.0#q811m1099-1",
+            "clips": [
+                {
+                    "filename": "Tan-Yan-Hua-Sign-the-Fireworks_2959_001_00-02-23",
+                    "timeStamp": "02:23",
+                    "start": 144000
+                }
+            ]
+        },
+        {
+            "id": "2960",
+            "title": "\"Tan Yan Hua\" (\"Sign the Fireworks\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/j6731k30h?t=0.0,121.0#j6731k30h-1",
+            "clips": [
+                {
+                    "filename": "Tan-Yan-Hua-Sign-the-Fireworks_2960_001_00-01-06",
+                    "timeStamp": "01:06",
+                    "start": 67000
+                }
+            ]
+        },
+        {
+            "id": "2965",
+            "title": "\"Wu Geng Liang Jia\" (\"A Woman of Chastity at 3:00 AM\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3n204d16p?t=0.0,175.0#3n204d16p-1",
+            "clips": [
+                {
+                    "filename": "Wu-Geng-Liang-Jia-A-Woman-of-Chastity-at-300-AM_2965_001_00-02-21",
+                    "timeStamp": "02:21",
+                    "start": 142000
+                }
+            ]
+        },
+        {
+            "id": "2966",
+            "title": "\"Wu Geng Liang Jia\" (\"A Woman of Chastity at 3:00 AM\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qj72pp682?t=0.0,164.0#qj72pp682-1",
+            "clips": [
+                {
+                    "filename": "Wu-Geng-Liang-Jia-A-Woman-of-Chastity-at-300-AM_2966_001_00-00-59",
+                    "timeStamp": "00:59",
+                    "start": 60000
+                }
+            ]
+        },
+        {
+            "id": "2943",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/7m01c2814?t=0.0,175.0#7m01c2814-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2943_001_00-01-08",
+                    "timeStamp": "01:08",
+                    "start": 69000
+                }
+            ]
+        },
+        {
+            "id": "2944",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g445cv53z?t=0.0,177.0#g445cv53z-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2944_001_00-02-09",
+                    "timeStamp": "02:09",
+                    "start": 130000
+                }
+            ]
+        },
+        {
+            "id": "2945",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/cn69mj815?t=0.0,182.0#cn69mj815-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2945_001_00-00-56",
+                    "timeStamp": "00:56",
+                    "start": 57000
+                }
+            ]
+        },
+        {
+            "id": "2946",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/cc08hx53f?t=0.0,178.0#cc08hx53f-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2946_001_00-02-18",
+                    "timeStamp": "02:18",
+                    "start": 139000
+                }
+            ]
+        },
+        {
+            "id": "2947",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0z709b59z?t=0.0,180.0#0z709b59z-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2947_001_00-01-25",
+                    "timeStamp": "01:25",
+                    "start": 86000
+                }
+            ]
+        },
+        {
+            "id": "2948",
+            "title": "\"Xia Qi\" (\"Playing Chess\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/d504s0963?t=0.0,165.0#d504s0963-1",
+            "clips": [
+                {
+                    "filename": "Xia-Qi-Playing-Chess_2948_001_00-02-12",
+                    "timeStamp": "02:12",
+                    "start": 133000
+                }
+            ]
+        },
+        {
+            "id": "2967",
+            "title": "\"Xiao Fang Niu\" (\"The Little Cowherd\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zc77t554w?t=0.0,171.0#zc77t554w-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-The-Little-Cowherd_2967_001_00-00-58",
+                    "timeStamp": "00:58",
+                    "start": 59000
+                }
+            ]
+        },
+        {
+            "id": "2968",
+            "title": "\"Xiao Fang Niu\" (\"The Little Cowherd\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9w032j77s?t=0.0,173.0#9w032j77s-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-The-Little-Cowherd_2968_001_00-00-28",
+                    "timeStamp": "00:28",
+                    "start": 29000
+                }
+            ]
+        },
+        {
+            "id": "2969",
+            "title": "\"Xiao Fang Niu\" (\"The Little Cowherd\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2v23w867x?t=0.0,162.0#2v23w867x-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-The-Little-Cowherd_2969_001_00-00-37",
+                    "timeStamp": "00:37",
+                    "start": 38000
+                }
+            ]
+        },
+        {
+            "id": "2970",
+            "title": "\"Xiao Fang Niu\" (\"The Little Cowherd\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tt44q313r?t=0.0,74.0#tt44q313r-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-The-Little-Cowherd_2970_001_00-00-19",
+                    "timeStamp": "00:19",
+                    "start": 20000
+                }
+            ]
+        },
+        {
+            "id": "3010",
+            "title": "\"Xiao Fang Niu\" (Little Cowherd). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qr46rg650?t=0.0,187.0#qr46rg650-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-Little-Cowherd-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3010_001_00-00-53",
+                    "timeStamp": "00:53",
+                    "start": 54000
+                }
+            ]
+        },
+        {
+            "id": "3011",
+            "title": "\"Xiao Fang Niu\" (Little Cowherd). This is a xiaodiao folksong. It is considered to be a popular song by vernacular society",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/cz30q766s?t=0.0,178.0#cz30q766s-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Fang-Niu-Little-Cowherd-This-is-a-xiaodiao-folksong-It-is-considered-to-be-a-popular-song-by-vernacular-society_3011_001_00-00-57",
+                    "timeStamp": "00:57",
+                    "start": 58000
+                }
+            ]
+        },
+        {
+            "id": "2929",
+            "title": "\"Xiao Kai Men\" (Little Opened Door) of Beijing opera",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/gb19fn62p?t=0.0,189.0#gb19fn62p-1",
+            "clips": [
+                {
+                    "filename": "Xiao-Kai-Men-Little-Opened-Door-of-Beijing-opera_2929_001_00-01-50",
+                    "timeStamp": "01:50",
+                    "start": 111000
+                }
+            ]
+        },
+        {
+            "id": "2955",
+            "title": "\"Xue Re Ke\" (\"Imitating a Frequent Guest\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kp78gx34m?t=0.0,151.0#kp78gx34m-1",
+            "clips": [
+                {
+                    "filename": "Xue-Re-Ke-Imitating-a-Frequent-Guest_2955_001_00-00-13",
+                    "timeStamp": "00:13",
+                    "start": 14000
+                }
+            ]
+        },
+        {
+            "id": "2957",
+            "title": "\"Xue Re Ke\" (\"Imitating a Frequent Guest\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3n204d15d?t=0.0,124.0#3n204d15d-1",
+            "clips": [
+                {
+                    "filename": "Xue-Re-Ke-Imitating-a-Frequent-Guest_2957_001_00-01-13",
+                    "timeStamp": "01:13",
+                    "start": 74000
+                }
+            ]
+        },
+        {
+            "id": "3096",
+            "title": "\"Zhao Hua Tai\" (\"Light the Flower Desk\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/dj52wm03b?t=0.0,144.0#dj52wm03b-1",
+            "clips": [
+                {
+                    "filename": "Zhao-Hua-Tai-Light-the-Flower-Desk_3096_001_00-02-09",
+                    "timeStamp": "02:09",
+                    "start": 130000
+                }
+            ]
+        },
+        {
+            "id": "3048",
+            "title": "\"Zhi Ke Tiao Cao\" (\"A Constant Visitor Leaves\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/mg74r233m?t=0.0,161.0#mg74r233m-1",
+            "clips": [
+                {
+                    "filename": "Zhi-Ke-Tiao-Cao-A-Constant-Visitor-Leaves_3048_001_00-00-02",
+                    "timeStamp": "00:02",
+                    "start": 3000
+                }
+            ]
+        },
+        {
+            "id": "2923",
+            "title": "A folksong sung in the tune of Mengjiangn\u00fc",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ns064n141?t=0.0,199.0#ns064n141-1",
+            "clips": [
+                {
+                    "filename": "A-folksong-sung-in-the-tune-of-Mengjiangn_2923_001_00-00-32",
+                    "timeStamp": "00:32",
+                    "start": 33000
+                }
+            ]
+        },
+        {
+            "id": "2930",
+            "title": "A labeled melody (qupai",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/k643bg58v?t=0.0,185.0#k643bg58v-1",
+            "clips": [
+                {
+                    "filename": "A-labeled-melody-qupai_2930_001_00-02-07",
+                    "timeStamp": "02:07",
+                    "start": 128000
+                }
+            ]
+        },
+        {
+            "id": "2925",
+            "title": "An unidentified folksong sung in the tune of Mengjiangn\u00fc",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tm70n9483?t=0.0,192.0#tm70n9483-1",
+            "clips": [
+                {
+                    "filename": "An-unidentified-folksong-sung-in-the-tune-of-Mengjiangn_2925_001_00-01-28",
+                    "timeStamp": "01:28",
+                    "start": 89000
+                }
+            ]
+        },
+        {
+            "id": "2921",
+            "title": "An unidentified xiaodiao folksong from Northern Jiangsu",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z890s855n?t=0.0,195.0#z890s855n-1",
+            "clips": [
+                {
+                    "filename": "An-unidentified-xiaodiao-folksong-from-Northern-Jiangsu_2921_001_00-00-13",
+                    "timeStamp": "00:13",
+                    "start": 14000
+                }
+            ]
+        },
+        {
+            "id": "2924",
+            "title": "An unidentified xiaodiao folksong from Northern Jiangsu",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ht24x138q?t=0.0,199.0#ht24x138q-1",
+            "clips": [
+                {
+                    "filename": "An-unidentified-xiaodiao-folksong-from-Northern-Jiangsu_2924_001_00-00-05",
+                    "timeStamp": "00:05",
+                    "start": 6000
+                }
+            ]
+        },
+        {
+            "id": "2792",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z603rd12v?t=0.0,208.0#z603rd12v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2792_001_00-01-22",
+                    "timeStamp": "01:22",
+                    "start": 83000
+                }
+            ]
+        },
+        {
+            "id": "2793",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g158bz87j?t=0.0,204.0#g158bz87j-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2793_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "2794",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bn999n700?t=0.0,207.0#bn999n700-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2794_001_00-02-00",
+                    "timeStamp": "02:00",
+                    "start": 121000
+                }
+            ]
+        },
+        {
+            "id": "2795",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/p2677989w?t=0.0,183.0#p2677989w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2795_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2796",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/dn39xh09h?t=0.0,204.0#dn39xh09h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2796_001_00-00-55",
+                    "timeStamp": "00:55",
+                    "start": 56000
+                }
+            ]
+        },
+        {
+            "id": "2797",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2v23w865c?t=0.0,176.0#2v23w865c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2797_001_00-00-06",
+                    "timeStamp": "00:06",
+                    "start": 7000
+                }
+            ]
+        },
+        {
+            "id": "2798",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hd76sf308?t=0.0,203.0#hd76sf308-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2798_001_00-01-29",
+                    "timeStamp": "01:29",
+                    "start": 90000
+                }
+            ]
+        },
+        {
+            "id": "2799",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/s4655x900?t=0.0,186.0#s4655x900-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2799_001_00-01-04",
+                    "timeStamp": "01:04",
+                    "start": 65000
+                }
+            ]
+        },
+        {
+            "id": "2800",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/nz806d38v?t=0.0,200.0#nz806d38v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2800_001_00-01-48",
+                    "timeStamp": "01:48",
+                    "start": 109000
+                }
+            ]
+        },
+        {
+            "id": "2801",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kk91g180c?t=0.0,181.0#kk91g180c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2801_001_00-00-35",
+                    "timeStamp": "00:35",
+                    "start": 36000
+                }
+            ]
+        },
+        {
+            "id": "2802",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/xp68kx155?t=0.0,200.0#xp68kx155-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2802_001_00-00-24",
+                    "timeStamp": "00:24",
+                    "start": 25000
+                }
+            ]
+        },
+        {
+            "id": "2803",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3r075874w?t=0.0,187.0#3r075874w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2803_001_00-02-54",
+                    "timeStamp": "02:54",
+                    "start": 175000
+                }
+            ]
+        },
+        {
+            "id": "2804",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/s7526t907?t=0.0,200.0#s7526t907-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2804_001_00-00-14",
+                    "timeStamp": "00:14",
+                    "start": 15000
+                }
+            ]
+        },
+        {
+            "id": "2805",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qn59qj894?t=0.0,189.0#qn59qj894-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2805_001_00-02-18",
+                    "timeStamp": "02:18",
+                    "start": 139000
+                }
+            ]
+        },
+        {
+            "id": "2806",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vd66wg22j?t=0.0,205.0#vd66wg22j-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2806_001_00-02-09",
+                    "timeStamp": "02:09",
+                    "start": 130000
+                }
+            ]
+        },
+        {
+            "id": "2807",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/m326mh59r?t=0.0,191.0#m326mh59r-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2807_001_00-01-05",
+                    "timeStamp": "01:05",
+                    "start": 66000
+                }
+            ]
+        },
+        {
+            "id": "2811",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/rr172c47v?t=0.0,202.0#rr172c47v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2811_001_00-00-46",
+                    "timeStamp": "00:46",
+                    "start": 47000
+                }
+            ]
+        },
+        {
+            "id": "2812",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ft8495690?t=0.0,195.0#ft8495690-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2812_001_00-01-37",
+                    "timeStamp": "01:37",
+                    "start": 98000
+                }
+            ]
+        },
+        {
+            "id": "2813",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3f462n39q?t=0.0,209.0#3f462n39q-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2813_001_00-02-52",
+                    "timeStamp": "02:52",
+                    "start": 173000
+                }
+            ]
+        },
+        {
+            "id": "2814",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/fx71b237z?t=0.0,201.0#fx71b237z-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2814_001_00-02-32",
+                    "timeStamp": "02:32",
+                    "start": 153000
+                }
+            ]
+        },
+        {
+            "id": "2815",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2514p229w?t=0.0,200.0#2514p229w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2815_001_00-01-52",
+                    "timeStamp": "01:52",
+                    "start": 113000
+                }
+            ]
+        },
+        {
+            "id": "2816",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bv73cf70g?t=0.0,191.0#bv73cf70g-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2816_001_00-00-55",
+                    "timeStamp": "00:55",
+                    "start": 56000
+                }
+            ]
+        },
+        {
+            "id": "2817",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/7w62fq49z?t=0.0,203.0#7w62fq49z-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2817_001_00-01-47",
+                    "timeStamp": "01:47",
+                    "start": 108000
+                }
+            ]
+        },
+        {
+            "id": "2818",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/s7526t91h?t=0.0,193.0#s7526t91h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2818_001_00-01-56",
+                    "timeStamp": "01:56",
+                    "start": 117000
+                }
+            ]
+        },
+        {
+            "id": "2819",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/t435gv30d?t=0.0,205.0#t435gv30d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2819_001_00-00-58",
+                    "timeStamp": "00:58",
+                    "start": 59000
+                }
+            ]
+        },
+        {
+            "id": "2820",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/w0892s576?t=0.0,197.0#w0892s576-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2820_001_00-03-08",
+                    "timeStamp": "03:08",
+                    "start": 189000
+                }
+            ]
+        },
+        {
+            "id": "2821",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6969zg60v?t=0.0,198.0#6969zg60v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2821_001_00-02-42",
+                    "timeStamp": "02:42",
+                    "start": 163000
+                }
+            ]
+        },
+        {
+            "id": "2822",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/jd473c23v?t=0.0,192.0#jd473c23v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2822_001_00-00-05",
+                    "timeStamp": "00:05",
+                    "start": 6000
+                }
+            ]
+        },
+        {
+            "id": "2823",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4m90f941n?t=0.0,201.0#4m90f941n-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2823_001_00-02-27",
+                    "timeStamp": "02:27",
+                    "start": 148000
+                }
+            ]
+        },
+        {
+            "id": "2824",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8049gm95m?t=0.0,193.0#8049gm95m-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2824_001_00-02-06",
+                    "timeStamp": "02:06",
+                    "start": 127000
+                }
+            ]
+        },
+        {
+            "id": "2825",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/m900p860s?t=0.0,197.0#m900p860s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2825_001_00-02-39",
+                    "timeStamp": "02:39",
+                    "start": 160000
+                }
+            ]
+        },
+        {
+            "id": "2826",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tm70n947t?t=0.0,198.0#tm70n947t-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2826_001_00-03-05",
+                    "timeStamp": "03:05",
+                    "start": 186000
+                }
+            ]
+        },
+        {
+            "id": "2828",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vh53xb16f?t=0.0,196.0#vh53xb16f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2828_001_00-00-06",
+                    "timeStamp": "00:06",
+                    "start": 7000
+                }
+            ]
+        },
+        {
+            "id": "2829",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kd17d824s?t=0.0,197.0#kd17d824s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2829_001_00-00-46",
+                    "timeStamp": "00:46",
+                    "start": 47000
+                }
+            ]
+        },
+        {
+            "id": "2830",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/5712mn932?t=0.0,189.0#5712mn932-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2830_001_00-01-41",
+                    "timeStamp": "01:41",
+                    "start": 102000
+                }
+            ]
+        },
+        {
+            "id": "2831",
+            "title": "Excerpts from \"Da Xiang Shan\" (\"The Big Fragrant Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pr76fj75c?t=0.0,205.0#pr76fj75c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Da-Xiang-Shan-The-Big-Fragrant-Mountain_2831_001_00-01-44",
+                    "timeStamp": "01:44",
+                    "start": 105000
+                }
+            ]
+        },
+        {
+            "id": "2851",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/wp9891291?t=0.0,187.0#wp9891291-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2851_001_00-02-29",
+                    "timeStamp": "02:29",
+                    "start": 150000
+                }
+            ]
+        },
+        {
+            "id": "2852",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tq57p597b?t=0.0,184.0#tq57p597b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2852_001_00-02-38",
+                    "timeStamp": "02:38",
+                    "start": 159000
+                }
+            ]
+        },
+        {
+            "id": "2853",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/05742722f?t=0.0,181.0#05742722f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2853_001_00-02-38",
+                    "timeStamp": "02:38",
+                    "start": 159000
+                }
+            ]
+        },
+        {
+            "id": "2854",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/df65vq008?t=0.0,181.0#df65vq008-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2854_001_00-00-34",
+                    "timeStamp": "00:34",
+                    "start": 35000
+                }
+            ]
+        },
+        {
+            "id": "2855",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/gx41mz61h?t=0.0,187.0#gx41mz61h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2855_001_00-00-11",
+                    "timeStamp": "00:11",
+                    "start": 12000
+                }
+            ]
+        },
+        {
+            "id": "2856",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z316qh04x?t=0.0,183.0#z316qh04x-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2856_001_00-01-53",
+                    "timeStamp": "01:53",
+                    "start": 114000
+                }
+            ]
+        },
+        {
+            "id": "2858",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z603rd134?t=0.0,187.0#z603rd134-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2858_001_00-01-36",
+                    "timeStamp": "01:36",
+                    "start": 97000
+                }
+            ]
+        },
+        {
+            "id": "2859",
+            "title": "Excerpts from \"Huang He Lou\" (\"Yellow Crane Tower\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vm40z731s?t=0.0,201.0#vm40z731s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Huang-He-Lou-Yellow-Crane-Tower_2859_001_00-02-17",
+                    "timeStamp": "02:17",
+                    "start": 138000
+                }
+            ]
+        },
+        {
+            "id": "2730",
+            "title": "Excerpts from \"Mai Ma\" (\"Selling Horses\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9p290s350?t=0.0,202.0#9p290s350-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Mai-Ma-Selling-Horses_2730_001_00-01-44",
+                    "timeStamp": "01:44",
+                    "start": 105000
+                }
+            ]
+        },
+        {
+            "id": "2746",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/np193r658?t=0.0,192.0#np193r658-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2746_001_00-02-46",
+                    "timeStamp": "02:46",
+                    "start": 167000
+                }
+            ]
+        },
+        {
+            "id": "2748",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8k71p022s?t=0.0,214.0#8k71p022s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2748_001_00-02-35",
+                    "timeStamp": "02:35",
+                    "start": 156000
+                }
+            ]
+        },
+        {
+            "id": "2750",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/xw42nq532?t=0.0,191.0#xw42nq532-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2750_001_00-01-35",
+                    "timeStamp": "01:35",
+                    "start": 96000
+                }
+            ]
+        },
+        {
+            "id": "2751",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/sj139h36f?t=0.0,156.0#sj139h36f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2751_001_00-01-22",
+                    "timeStamp": "01:22",
+                    "start": 83000
+                }
+            ]
+        },
+        {
+            "id": "2752",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8w32rm58k?t=0.0,229.0#8w32rm58k-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2752_001_00-02-41",
+                    "timeStamp": "02:41",
+                    "start": 162000
+                }
+            ]
+        },
+        {
+            "id": "2754",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/jh3447822?t=0.0,171.0#jh3447822-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2754_001_00-00-11",
+                    "timeStamp": "00:11",
+                    "start": 12000
+                }
+            ]
+        },
+        {
+            "id": "2756",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1z40m805h?t=0.0,225.0#1z40m805h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2756_001_00-01-44",
+                    "timeStamp": "01:44",
+                    "start": 105000
+                }
+            ]
+        },
+        {
+            "id": "2757",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1544c456x?t=0.0,199.0#1544c456x-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2757_001_00-01-23",
+                    "timeStamp": "01:23",
+                    "start": 84000
+                }
+            ]
+        },
+        {
+            "id": "2758",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8w32rm59v?t=0.0,210.0#8w32rm59v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2758_001_00-02-17",
+                    "timeStamp": "02:17",
+                    "start": 138000
+                }
+            ]
+        },
+        {
+            "id": "2759",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/41688011t?t=0.0,185.0#41688011t-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2759_001_00-02-51",
+                    "timeStamp": "02:51",
+                    "start": 172000
+                }
+            ]
+        },
+        {
+            "id": "2760",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hq37w488p?t=0.0,223.0#hq37w488p-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2760_001_00-03-29",
+                    "timeStamp": "03:29",
+                    "start": 210000
+                }
+            ]
+        },
+        {
+            "id": "2762",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/086133968?t=0.0,211.0#086133968-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2762_001_00-00-44",
+                    "timeStamp": "00:44",
+                    "start": 45000
+                }
+            ]
+        },
+        {
+            "id": "2763",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hh63t9911?t=0.0,187.0#hh63t9911-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2763_001_00-01-47",
+                    "timeStamp": "01:47",
+                    "start": 108000
+                }
+            ]
+        },
+        {
+            "id": "2764",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/td96kh569?t=0.0,225.0#td96kh569-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2764_001_00-01-03",
+                    "timeStamp": "01:03",
+                    "start": 64000
+                }
+            ]
+        },
+        {
+            "id": "2765",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/5425ks931?t=0.0,171.0#5425ks931-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2765_001_00-01-01",
+                    "timeStamp": "01:01",
+                    "start": 62000
+                }
+            ]
+        },
+        {
+            "id": "2766",
+            "title": "Excerpts from \"Sang Yuan Hui\" (Meeting in the Mulberry Tree Garden\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bv73cf69q?t=0.0,199.0#bv73cf69q-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Sang-Yuan-Hui-Meeting-in-the-Mulberry-Tree-Garden_2766_001_00-01-25",
+                    "timeStamp": "01:25",
+                    "start": 86000
+                }
+            ]
+        },
+        {
+            "id": "2734",
+            "title": "Excerpts from \"Shuang Bao An\" (\"The Real and Fake Justice Bao\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3t946645v?t=0.0,194.0#3t946645v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Shuang-Bao-An-The-Real-and-Fake-Justice-Bao_2734_001_00-02-51",
+                    "timeStamp": "02:51",
+                    "start": 172000
+                }
+            ]
+        },
+        {
+            "id": "2736",
+            "title": "Excerpts from \"Tian Shui Guan\" (\"Tian Shui Fort\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9z903f64x?t=0.0,193.0#9z903f64x-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Tian-Shui-Guan-Tian-Shui-Fort_2736_001_00-00-53",
+                    "timeStamp": "00:53",
+                    "start": 54000
+                }
+            ]
+        },
+        {
+            "id": "2737",
+            "title": "Excerpts from \"Wen Zhao Guan\" (\"Wen Zhao Fort\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/x059cp320?t=0.0,198.0#x059cp320-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wen-Zhao-Guan-Wen-Zhao-Fort_2737_001_00-01-35",
+                    "timeStamp": "01:35",
+                    "start": 96000
+                }
+            ]
+        },
+        {
+            "id": "2729",
+            "title": "Excerpts from \"Wu Long Yuan\" (\"In Garden of the Black Dragon\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0v838f54b?t=0.0,192.0#0v838f54b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Long-Yuan-In-Garden-of-the-Black-Dragon_2729_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "2861",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2n49tg94b?t=0.0,179.0#2n49tg94b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2861_001_00-02-38",
+                    "timeStamp": "02:38",
+                    "start": 159000
+                }
+            ]
+        },
+        {
+            "id": "2862",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/rj430m48k?t=0.0,178.0#rj430m48k-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2862_001_00-00-59",
+                    "timeStamp": "00:59",
+                    "start": 60000
+                }
+            ]
+        },
+        {
+            "id": "2863",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1g05fs761?t=0.0,183.0#1g05fs761-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2863_001_00-02-49",
+                    "timeStamp": "02:49",
+                    "start": 170000
+                }
+            ]
+        },
+        {
+            "id": "2864",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/tx31qz97n?t=0.0,180.0#tx31qz97n-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2864_001_00-02-45",
+                    "timeStamp": "02:45",
+                    "start": 166000
+                }
+            ]
+        },
+        {
+            "id": "2866",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vh53xb180?t=0.0,190.0#vh53xb180-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2866_001_00-02-21",
+                    "timeStamp": "02:21",
+                    "start": 142000
+                }
+            ]
+        },
+        {
+            "id": "2867",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8336hh49r?t=0.0,185.0#8336hh49r-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2867_001_00-00-32",
+                    "timeStamp": "00:32",
+                    "start": 33000
+                }
+            ]
+        },
+        {
+            "id": "2868",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3484zz57h?t=0.0,186.0#3484zz57h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2868_001_00-00-04",
+                    "timeStamp": "00:04",
+                    "start": 5000
+                }
+            ]
+        },
+        {
+            "id": "2869",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0g354w51h?t=0.0,186.0#0g354w51h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2869_001_00-00-22",
+                    "timeStamp": "00:22",
+                    "start": 23000
+                }
+            ]
+        },
+        {
+            "id": "2870",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ww72bs315?t=0.0,193.0#ww72bs315-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2870_001_00-02-29",
+                    "timeStamp": "02:29",
+                    "start": 150000
+                }
+            ]
+        },
+        {
+            "id": "2871",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/416880123?t=0.0,181.0#416880123-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2871_001_00-00-24",
+                    "timeStamp": "00:24",
+                    "start": 25000
+                }
+            ]
+        },
+        {
+            "id": "2872",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/v118rv32c?t=0.0,178.0#v118rv32c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2872_001_00-01-33",
+                    "timeStamp": "01:33",
+                    "start": 94000
+                }
+            ]
+        },
+        {
+            "id": "2873",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pr76fj76n?t=0.0,188.0#pr76fj76n-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2873_001_00-00-36",
+                    "timeStamp": "00:36",
+                    "start": 37000
+                }
+            ]
+        },
+        {
+            "id": "2874",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ms35tr350?t=0.0,184.0#ms35tr350-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2874_001_00-01-00",
+                    "timeStamp": "01:00",
+                    "start": 61000
+                }
+            ]
+        },
+        {
+            "id": "2875",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/70795q40c?t=0.0,185.0#70795q40c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2875_001_00-02-19",
+                    "timeStamp": "02:19",
+                    "start": 140000
+                }
+            ]
+        },
+        {
+            "id": "2876",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z603rd14d?t=0.0,180.0#z603rd14d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2876_001_00-01-44",
+                    "timeStamp": "01:44",
+                    "start": 105000
+                }
+            ]
+        },
+        {
+            "id": "2877",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bg257w75v?t=0.0,186.0#bg257w75v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2877_001_00-00-55",
+                    "timeStamp": "00:55",
+                    "start": 56000
+                }
+            ]
+        },
+        {
+            "id": "2879",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/mk61rz11n?t=0.0,181.0#mk61rz11n-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2879_001_00-01-02",
+                    "timeStamp": "01:02",
+                    "start": 63000
+                }
+            ]
+        },
+        {
+            "id": "2880",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kp78gx322?t=0.0,176.0#kp78gx322-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2880_001_00-00-02",
+                    "timeStamp": "00:02",
+                    "start": 3000
+                }
+            ]
+        },
+        {
+            "id": "2881",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/rf55zp46f?t=0.0,185.0#rf55zp46f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2881_001_00-02-47",
+                    "timeStamp": "02:47",
+                    "start": 168000
+                }
+            ]
+        },
+        {
+            "id": "2882",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/r781wx300?t=0.0,182.0#r781wx300-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2882_001_00-02-13",
+                    "timeStamp": "02:13",
+                    "start": 134000
+                }
+            ]
+        },
+        {
+            "id": "2883",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/zg64v262t?t=0.0,196.0#zg64v262t-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2883_001_00-02-08",
+                    "timeStamp": "02:08",
+                    "start": 129000
+                }
+            ]
+        },
+        {
+            "id": "2884",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z316qh056?t=0.0,182.0#z316qh056-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2884_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "2885",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/x346dk47v?t=0.0,183.0#x346dk47v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2885_001_00-00-13",
+                    "timeStamp": "00:13",
+                    "start": 14000
+                }
+            ]
+        },
+        {
+            "id": "2886",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/41688013c?t=0.0,176.0#41688013c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2886_001_00-00-02",
+                    "timeStamp": "00:02",
+                    "start": 3000
+                }
+            ]
+        },
+        {
+            "id": "2887",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4j03df33z?t=0.0,180.0#4j03df33z-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2887_001_00-00-11",
+                    "timeStamp": "00:11",
+                    "start": 12000
+                }
+            ]
+        },
+        {
+            "id": "2888",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hh63t9929?t=0.0,180.0#hh63t9929-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2888_001_00-00-04",
+                    "timeStamp": "00:04",
+                    "start": 5000
+                }
+            ]
+        },
+        {
+            "id": "2890",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1831d1565?t=0.0,182.0#1831d1565-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2890_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "2891",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pg15bw56d?t=0.0,180.0#pg15bw56d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2891_001_00-01-20",
+                    "timeStamp": "01:20",
+                    "start": 81000
+                }
+            ]
+        },
+        {
+            "id": "2893",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1r66jg72w?t=0.0,181.0#1r66jg72w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2893_001_00-00-43",
+                    "timeStamp": "00:43",
+                    "start": 44000
+                }
+            ]
+        },
+        {
+            "id": "2895",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/df65vq01j?t=0.0,180.0#df65vq01j-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2895_001_00-00-23",
+                    "timeStamp": "00:23",
+                    "start": 24000
+                }
+            ]
+        },
+        {
+            "id": "2896",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9s161n02g?t=0.0,178.0#9s161n02g-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2896_001_00-00-02",
+                    "timeStamp": "00:02",
+                    "start": 3000
+                }
+            ]
+        },
+        {
+            "id": "2897",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4f16cj46s?t=0.0,184.0#4f16cj46s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2897_001_00-02-21",
+                    "timeStamp": "02:21",
+                    "start": 142000
+                }
+            ]
+        },
+        {
+            "id": "2898",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/db78tt532?t=0.0,184.0#db78tt532-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2898_001_00-02-28",
+                    "timeStamp": "02:28",
+                    "start": 149000
+                }
+            ]
+        },
+        {
+            "id": "2899",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0g354w52s?t=0.0,185.0#0g354w52s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2899_001_00-02-20",
+                    "timeStamp": "02:20",
+                    "start": 141000
+                }
+            ]
+        },
+        {
+            "id": "2900",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/nv935j571?t=0.0,186.0#nv935j571-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2900_001_00-01-42",
+                    "timeStamp": "01:42",
+                    "start": 103000
+                }
+            ]
+        },
+        {
+            "id": "2901",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pz50hb68f?t=0.0,183.0#pz50hb68f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2901_001_00-02-18",
+                    "timeStamp": "02:18",
+                    "start": 139000
+                }
+            ]
+        },
+        {
+            "id": "2902",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/nz806d394?t=0.0,182.0#nz806d394-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2902_001_00-02-10",
+                    "timeStamp": "02:10",
+                    "start": 131000
+                }
+            ]
+        },
+        {
+            "id": "2903",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/d217r540d?t=0.0,183.0#d217r540d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2903_001_00-01-30",
+                    "timeStamp": "01:30",
+                    "start": 91000
+                }
+            ]
+        },
+        {
+            "id": "2904",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0k225s75b?t=0.0,184.0#0k225s75b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2904_001_00-00-41",
+                    "timeStamp": "00:41",
+                    "start": 42000
+                }
+            ]
+        },
+        {
+            "id": "2905",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/q524k379j?t=0.0,185.0#q524k379j-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2905_001_00-00-24",
+                    "timeStamp": "00:24",
+                    "start": 25000
+                }
+            ]
+        },
+        {
+            "id": "2906",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ws859x34z?t=0.0,184.0#ws859x34z-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2906_001_00-01-57",
+                    "timeStamp": "01:57",
+                    "start": 118000
+                }
+            ]
+        },
+        {
+            "id": "2907",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/00000f83f?t=0.0,180.0#00000f83f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2907_001_00-01-20",
+                    "timeStamp": "01:20",
+                    "start": 81000
+                }
+            ]
+        },
+        {
+            "id": "2908",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/05742723q?t=0.0,177.0#05742723q-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2908_001_00-01-03",
+                    "timeStamp": "01:03",
+                    "start": 64000
+                }
+            ]
+        },
+        {
+            "id": "2909",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/w9505f598?t=0.0,193.0#w9505f598-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2909_001_00-02-16",
+                    "timeStamp": "02:16",
+                    "start": 137000
+                }
+            ]
+        },
+        {
+            "id": "2910",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/c821h127g?t=0.0,179.0#c821h127g-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2910_001_00-01-06",
+                    "timeStamp": "01:06",
+                    "start": 67000
+                }
+            ]
+        },
+        {
+            "id": "2911",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9019sh559?t=0.0,179.0#9019sh559-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2911_001_00-02-08",
+                    "timeStamp": "02:08",
+                    "start": 129000
+                }
+            ]
+        },
+        {
+            "id": "2912",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/f4752z229?t=0.0,195.0#f4752z229-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2912_001_00-02-40",
+                    "timeStamp": "02:40",
+                    "start": 161000
+                }
+            ]
+        },
+        {
+            "id": "2913",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hx11xw96g?t=0.0,192.0#hx11xw96g-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2913_001_00-00-40",
+                    "timeStamp": "00:40",
+                    "start": 41000
+                }
+            ]
+        },
+        {
+            "id": "2914",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/76537f969?t=0.0,192.0#76537f969-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2914_001_00-00-05",
+                    "timeStamp": "00:05",
+                    "start": 6000
+                }
+            ]
+        },
+        {
+            "id": "2915",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3n204d144?t=0.0,193.0#3n204d144-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2915_001_00-02-04",
+                    "timeStamp": "02:04",
+                    "start": 125000
+                }
+            ]
+        },
+        {
+            "id": "2916",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8c97m5843?t=0.0,191.0#8c97m5843-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2916_001_00-02-00",
+                    "timeStamp": "02:00",
+                    "start": 121000
+                }
+            ]
+        },
+        {
+            "id": "2917",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4f16cj472?t=0.0,198.0#4f16cj472-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2917_001_00-00-50",
+                    "timeStamp": "00:50",
+                    "start": 51000
+                }
+            ]
+        },
+        {
+            "id": "2919",
+            "title": "Excerpts from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qn59qj90w?t=0.0,195.0#qn59qj90w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Wu-Tai-Shan-Wu-Tai-Mountain_2919_001_00-01-09",
+                    "timeStamp": "01:09",
+                    "start": 70000
+                }
+            ]
+        },
+        {
+            "id": "2933",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1n79hk40c?t=0.0,202.0#1n79hk40c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2933_001_00-01-41",
+                    "timeStamp": "01:41",
+                    "start": 102000
+                }
+            ]
+        },
+        {
+            "id": "2934",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/7p88cx949?t=0.0,224.0#7p88cx949-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2934_001_00-03-06",
+                    "timeStamp": "03:06",
+                    "start": 187000
+                }
+            ]
+        },
+        {
+            "id": "2935",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/kp78gx33b?t=0.0,228.0#kp78gx33b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2935_001_00-03-27",
+                    "timeStamp": "03:27",
+                    "start": 208000
+                }
+            ]
+        },
+        {
+            "id": "2936",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0c484118m?t=0.0,224.0#0c484118m-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2936_001_00-03-17",
+                    "timeStamp": "03:17",
+                    "start": 198000
+                }
+            ]
+        },
+        {
+            "id": "2937",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qj72pp66h?t=0.0,223.0#qj72pp66h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2937_001_00-00-48",
+                    "timeStamp": "00:48",
+                    "start": 49000
+                }
+            ]
+        },
+        {
+            "id": "2939",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6d570c46d?t=0.0,216.0#6d570c46d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2939_001_00-02-32",
+                    "timeStamp": "02:32",
+                    "start": 153000
+                }
+            ]
+        },
+        {
+            "id": "2940",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g158bz88t?t=0.0,214.0#g158bz88t-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2940_001_00-01-01",
+                    "timeStamp": "01:01",
+                    "start": 62000
+                }
+            ]
+        },
+        {
+            "id": "2941",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3x817321h?t=0.0,216.0#3x817321h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2941_001_00-00-14",
+                    "timeStamp": "00:14",
+                    "start": 15000
+                }
+            ]
+        },
+        {
+            "id": "2942",
+            "title": "Excerpts from \"Ye Su Hua Ting\" (\"Staying the Night at a Flower Pavilion\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4x51j0258?t=0.0,160.0#4x51j0258-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Ye-Su-Hua-Ting-Staying-the-Night-at-a-Flower-Pavilion_2942_001_00-02-00",
+                    "timeStamp": "02:00",
+                    "start": 121000
+                }
+            ]
+        },
+        {
+            "id": "2768",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/5t34t047q?t=0.0,196.0#5t34t047q-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2768_001_00-02-43",
+                    "timeStamp": "02:43",
+                    "start": 164000
+                }
+            ]
+        },
+        {
+            "id": "2770",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/st74d515f?t=0.0,201.0#st74d515f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2770_001_00-00-54",
+                    "timeStamp": "00:54",
+                    "start": 55000
+                }
+            ]
+        },
+        {
+            "id": "2772",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/8c97m583t?t=0.0,185.0#8c97m583t-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2772_001_00-02-45",
+                    "timeStamp": "02:45",
+                    "start": 166000
+                }
+            ]
+        },
+        {
+            "id": "2774",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/cv43pc582?t=0.0,211.0#cv43pc582-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2774_001_00-01-03",
+                    "timeStamp": "01:03",
+                    "start": 64000
+                }
+            ]
+        },
+        {
+            "id": "2775",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/xg94j498b?t=0.0,207.0#xg94j498b-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2775_001_00-02-44",
+                    "timeStamp": "02:44",
+                    "start": 165000
+                }
+            ]
+        },
+        {
+            "id": "2776",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/00000f81w?t=0.0,205.0#00000f81w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2776_001_00-02-51",
+                    "timeStamp": "02:51",
+                    "start": 172000
+                }
+            ]
+        },
+        {
+            "id": "2778",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/nc581361j?t=0.0,210.0#nc581361j-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2778_001_00-03-04",
+                    "timeStamp": "03:04",
+                    "start": 185000
+                }
+            ]
+        },
+        {
+            "id": "2779",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/pg15bw554?t=0.0,201.0#pg15bw554-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2779_001_00-02-28",
+                    "timeStamp": "02:28",
+                    "start": 149000
+                }
+            ]
+        },
+        {
+            "id": "2780",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/k3569k783?t=0.0,211.0#k3569k783-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2780_001_00-02-36",
+                    "timeStamp": "02:36",
+                    "start": 157000
+                }
+            ]
+        },
+        {
+            "id": "2782",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/n009wh38d?t=0.0,201.0#n009wh38d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2782_001_00-02-00",
+                    "timeStamp": "02:00",
+                    "start": 121000
+                }
+            ]
+        },
+        {
+            "id": "2784",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9019sh541?t=0.0,190.0#9019sh541-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2784_001_00-01-55",
+                    "timeStamp": "01:55",
+                    "start": 116000
+                }
+            ]
+        },
+        {
+            "id": "2785",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/b27749940?t=0.0,180.0#b27749940-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2785_001_00-00-48",
+                    "timeStamp": "00:48",
+                    "start": 49000
+                }
+            ]
+        },
+        {
+            "id": "2786",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g732dr294?t=0.0,206.0#g732dr294-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2786_001_00-02-54",
+                    "timeStamp": "02:54",
+                    "start": 175000
+                }
+            ]
+        },
+        {
+            "id": "2788",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hm50v6277?t=0.0,205.0#hm50v6277-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2788_001_00-03-11",
+                    "timeStamp": "03:11",
+                    "start": 192000
+                }
+            ]
+        },
+        {
+            "id": "2789",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qb98mw946?t=0.0,191.0#qb98mw946-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2789_001_00-03-05",
+                    "timeStamp": "03:05",
+                    "start": 186000
+                }
+            ]
+        },
+        {
+            "id": "2790",
+            "title": "Excerpts from \"You Long Xi Feng\" (\"Roving Dragons, Gambling Phoenixes\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bg257w74k?t=0.0,197.0#bg257w74k-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-You-Long-Xi-Feng-Roving-Dragons-Gambling-Phoenixes_2790_001_00-02-52",
+                    "timeStamp": "02:52",
+                    "start": 173000
+                }
+            ]
+        },
+        {
+            "id": "2832",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/5t34t0480?t=0.0,188.0#5t34t0480-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2832_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "2833",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ff365m508?t=0.0,193.0#ff365m508-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2833_001_00-02-23",
+                    "timeStamp": "02:23",
+                    "start": 144000
+                }
+            ]
+        },
+        {
+            "id": "2834",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1z40m806s?t=0.0,183.0#1z40m806s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2834_001_00-01-11",
+                    "timeStamp": "01:11",
+                    "start": 72000
+                }
+            ]
+        },
+        {
+            "id": "2835",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/x633fg81d?t=0.0,162.0#x633fg81d-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2835_001_00-00-19",
+                    "timeStamp": "00:19",
+                    "start": 20000
+                }
+            ]
+        },
+        {
+            "id": "2837",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vh53xb17q?t=0.0,169.0#vh53xb17q-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2837_001_00-00-42",
+                    "timeStamp": "00:42",
+                    "start": 43000
+                }
+            ]
+        },
+        {
+            "id": "2838",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2v23w866n?t=0.0,176.0#2v23w866n-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2838_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "2839",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/sb397q43c?t=0.0,166.0#sb397q43c-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2839_001_00-02-03",
+                    "timeStamp": "02:03",
+                    "start": 124000
+                }
+            ]
+        },
+        {
+            "id": "2840",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/00000f825?t=0.0,167.0#00000f825-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2840_001_00-00-03",
+                    "timeStamp": "00:03",
+                    "start": 4000
+                }
+            ]
+        },
+        {
+            "id": "2841",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/jq086148h?t=0.0,173.0#jq086148h-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2841_001_00-01-30",
+                    "timeStamp": "01:30",
+                    "start": 91000
+                }
+            ]
+        },
+        {
+            "id": "2842",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/73666m39v?t=0.0,167.0#73666m39v-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2842_001_00-00-32",
+                    "timeStamp": "00:32",
+                    "start": 33000
+                }
+            ]
+        },
+        {
+            "id": "2843",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/d791sx69f?t=0.0,184.0#d791sx69f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2843_001_00-00-29",
+                    "timeStamp": "00:29",
+                    "start": 30000
+                }
+            ]
+        },
+        {
+            "id": "2844",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/2b88qt73s?t=0.0,183.0#2b88qt73s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2844_001_00-02-15",
+                    "timeStamp": "02:15",
+                    "start": 136000
+                }
+            ]
+        },
+        {
+            "id": "2845",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9306tf01f?t=0.0,187.0#9306tf01f-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2845_001_00-01-27",
+                    "timeStamp": "01:27",
+                    "start": 88000
+                }
+            ]
+        },
+        {
+            "id": "2846",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1g05fs75r?t=0.0,183.0#1g05fs75r-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2846_001_00-00-37",
+                    "timeStamp": "00:37",
+                    "start": 38000
+                }
+            ]
+        },
+        {
+            "id": "2847",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g732dr30w?t=0.0,169.0#g732dr30w-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2847_001_00-00-18",
+                    "timeStamp": "00:18",
+                    "start": 19000
+                }
+            ]
+        },
+        {
+            "id": "2849",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/dz0115184?t=0.0,164.0#dz0115184-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2849_001_00-01-17",
+                    "timeStamp": "01:17",
+                    "start": 78000
+                }
+            ]
+        },
+        {
+            "id": "2850",
+            "title": "Excerpts from \"Zhan Bei Yuan\" (\"The Battle at Beiyuan\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/j9602f986?t=0.0,171.0#j9602f986-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhan-Bei-Yuan-The-Battle-at-Beiyuan_2850_001_00-00-37",
+                    "timeStamp": "00:37",
+                    "start": 38000
+                }
+            ]
+        },
+        {
+            "id": "2735",
+            "title": "Excerpts from \"Zhuo Fang Cao\" (\"The Catch and Release of Cao Mengde\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/p5548675s?t=0.0,228.0#p5548675s-1",
+            "clips": [
+                {
+                    "filename": "Excerpts-from-Zhuo-Fang-Cao-The-Catch-and-Release-of-Cao-Mengde_2735_001_00-01-12",
+                    "timeStamp": "01:12",
+                    "start": 73000
+                }
+            ]
+        },
+        {
+            "id": "2927",
+            "title": "Instrumental excerpts of suona from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/3j333h78f?t=0.0,184.0#3j333h78f-1",
+            "clips": [
+                {
+                    "filename": "Instrumental-excerpts-of-suona-from-Wu-Tai-Shan-Wu-Tai-Mountain_2927_001_00-02-32",
+                    "timeStamp": "02:32",
+                    "start": 153000
+                }
+            ]
+        },
+        {
+            "id": "2928",
+            "title": "Instrumental excerpts of suona from \"Wu Tai Shan\" (\"Wu Tai Mountain\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9w032j76h?t=0.0,178.0#9w032j76h-1",
+            "clips": [
+                {
+                    "filename": "Instrumental-excerpts-of-suona-from-Wu-Tai-Shan-Wu-Tai-Mountain_2928_001_00-02-40",
+                    "timeStamp": "02:40",
+                    "start": 161000
+                }
+            ]
+        },
+        {
+            "id": "2953",
+            "title": "Labeled as \"Shi Bi Shi Xiang\" (Ten Metaphors, Ten Thoughts), but seems to be part of \"Xue Re Ke\" (the next in the collection)",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/js956x14q?t=0.0,158.0#js956x14q-1",
+            "clips": [
+                {
+                    "filename": "Labeled-as-Shi-Bi-Shi-Xiang-Ten-Metaphors-Ten-Thoughts-but-seems-to-be-part-of-Xue-Re-Ke-the-next-in-the-collection_2953_001_00-01-05",
+                    "timeStamp": "01:05",
+                    "start": 66000
+                }
+            ]
+        },
+        {
+            "id": "2931",
+            "title": "Self-entertaining tune",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/vh53xb198?t=0.0,209.0#vh53xb198-1",
+            "clips": [
+                {
+                    "filename": "Self-entertaining-tune_2931_001_00-02-43",
+                    "timeStamp": "02:43",
+                    "start": 164000
+                }
+            ]
+        },
+        {
+            "id": "2932",
+            "title": "Suona instrumental on a labeled melody (qupai",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/m900p8612?t=0.0,182.0#m900p8612-1",
+            "clips": [
+                {
+                    "filename": "Suona-instrumental-on-a-labeled-melody-qupai_2932_001_00-02-41",
+                    "timeStamp": "02:41",
+                    "start": 162000
+                }
+            ]
+        },
+        {
+            "id": "2971",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9593v937t?t=0.0,165.0#9593v937t-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2971_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "2972",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/hx11xw97r?t=0.0,172.0#hx11xw97r-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2972_001_00-02-15",
+                    "timeStamp": "02:15",
+                    "start": 136000
+                }
+            ]
+        },
+        {
+            "id": "2974",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/6682xk279?t=0.0,172.0#6682xk279-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2974_001_00-01-28",
+                    "timeStamp": "01:28",
+                    "start": 89000
+                }
+            ]
+        },
+        {
+            "id": "2975",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9s161n03r?t=0.0,149.0#9s161n03r-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2975_001_00-01-44",
+                    "timeStamp": "01:44",
+                    "start": 105000
+                }
+            ]
+        },
+        {
+            "id": "2976",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/9c67x265j?t=0.0,188.0#9c67x265j-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2976_001_00-00-47",
+                    "timeStamp": "00:47",
+                    "start": 48000
+                }
+            ]
+        },
+        {
+            "id": "2977",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0p096p17z?t=0.0,175.0#0p096p17z-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2977_001_00-00-37",
+                    "timeStamp": "00:37",
+                    "start": 38000
+                }
+            ]
+        },
+        {
+            "id": "2978",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0k225s76m?t=0.0,185.0#0k225s76m-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2978_001_00-02-56",
+                    "timeStamp": "02:56",
+                    "start": 177000
+                }
+            ]
+        },
+        {
+            "id": "2979",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/b27749958?t=0.0,162.0#b27749958-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2979_001_00-00-07",
+                    "timeStamp": "00:07",
+                    "start": 8000
+                }
+            ]
+        },
+        {
+            "id": "2985",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1g05fs779?t=0.0,178.0#1g05fs779-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2985_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2987",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/ff365m51j?t=0.0,195.0#ff365m51j-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2987_001_00-01-20",
+                    "timeStamp": "01:20",
+                    "start": 81000
+                }
+            ]
+        },
+        {
+            "id": "2988",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/1v53kb69m?t=0.0,175.0#1v53kb69m-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2988_001_00-02-29",
+                    "timeStamp": "02:29",
+                    "start": 150000
+                }
+            ]
+        },
+        {
+            "id": "2990",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qn59qj915?t=0.0,193.0#qn59qj915-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2990_001_00-00-13",
+                    "timeStamp": "00:13",
+                    "start": 14000
+                }
+            ]
+        },
+        {
+            "id": "2994",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/mp48sv361?t=0.0,180.0#mp48sv361-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2994_001_00-00-50",
+                    "timeStamp": "00:50",
+                    "start": 51000
+                }
+            ]
+        },
+        {
+            "id": "2995",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/g445cv547?t=0.0,176.0#g445cv547-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2995_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2996",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/n296xd48v?t=0.0,182.0#n296xd48v-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2996_001_00-00-21",
+                    "timeStamp": "00:21",
+                    "start": 22000
+                }
+            ]
+        },
+        {
+            "id": "2997",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/0k225s77w?t=0.0,176.0#0k225s77w-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2997_001_00-00-49",
+                    "timeStamp": "00:49",
+                    "start": 50000
+                }
+            ]
+        },
+        {
+            "id": "2998",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qf85nt036?t=0.0,185.0#qf85nt036-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2998_001_00-00-09",
+                    "timeStamp": "00:09",
+                    "start": 10000
+                }
+            ]
+        },
+        {
+            "id": "2999",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/th83md72x?t=0.0,189.0#th83md72x-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_2999_001_00-00-19",
+                    "timeStamp": "00:19",
+                    "start": 20000
+                }
+            ]
+        },
+        {
+            "id": "3000",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qn59qj92f?t=0.0,185.0#qn59qj92f-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_3000_001_00-02-34",
+                    "timeStamp": "02:34",
+                    "start": 155000
+                }
+            ]
+        },
+        {
+            "id": "3001",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/qj72pp69b?t=0.0,181.0#qj72pp69b-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_3001_001_00-01-59",
+                    "timeStamp": "01:59",
+                    "start": 120000
+                }
+            ]
+        },
+        {
+            "id": "3002",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/z029pm708?t=0.0,184.0#z029pm708-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_3002_001_00-02-08",
+                    "timeStamp": "02:08",
+                    "start": 129000
+                }
+            ]
+        },
+        {
+            "id": "3003",
+            "title": "[unidentified content]",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/v979vj27g?t=0.0,179.0#v979vj27g-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content_3003_001_00-00-12",
+                    "timeStamp": "00:12",
+                    "start": 13000
+                }
+            ]
+        },
+        {
+            "id": "2986",
+            "title": "[unidentified content]. # \u5c1a\u672a\u8be2\u95ee \u4e00\u4e2a\u65b0\u7684\u6bb5\u843d",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/gt54m3351?t=0.0,183.0#gt54m3351-1",
+            "clips": [
+                {
+                    "filename": "unidentified-content---_2986_001_00-00-06",
+                    "timeStamp": "00:06",
+                    "start": 7000
+                }
+            ]
+        },
+        {
+            "id": "3034",
+            "title": "\u201cKuo Da Ye Kuang Ji N\u00fc\" (\"A Wealthy Man Seduce a Prostitute\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/r207v4620?t=0.0,195.0#r207v4620-1",
+            "clips": [
+                {
+                    "filename": "Kuo-Da-Ye-Kuang-Ji-N-A-Wealthy-Man-Seduce-a-Prostitute_3034_001_00-02-49",
+                    "timeStamp": "02:49",
+                    "start": 170000
+                }
+            ]
+        },
+        {
+            "id": "3035",
+            "title": "\u201cKuo Da Ye Kuang Ji N\u00fc\" (\"A Wealthy Man Seduce a Prostitute\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/4b29bn69v?t=0.0,195.0#4b29bn69v-1",
+            "clips": [
+                {
+                    "filename": "Kuo-Da-Ye-Kuang-Ji-N-A-Wealthy-Man-Seduce-a-Prostitute_3035_001_00-00-53",
+                    "timeStamp": "00:53",
+                    "start": 54000
+                }
+            ]
+        },
+        {
+            "id": "3037",
+            "title": "\u201cKuo Da Ye Kuang Ji N\u00fc\" (\"A Wealthy Man Seduce a Prostitute\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/fj236h697?t=0.0,202.0#fj236h697-1",
+            "clips": [
+                {
+                    "filename": "Kuo-Da-Ye-Kuang-Ji-N-A-Wealthy-Man-Seduce-a-Prostitute_3037_001_00-02-40",
+                    "timeStamp": "02:40",
+                    "start": 161000
+                }
+            ]
+        },
+        {
+            "id": "3038",
+            "title": "\u201cKuo Da Ye Kuang Ji N\u00fc\" (\"A Wealthy Man Seduce a Prostitute\")",
+            "url": "https://media.dlib.indiana.edu/media_objects/3f462n38f/section/bz60db621?t=0.0,192.0#bz60db621-1",
+            "clips": [
+                {
+                    "filename": "Kuo-Da-Ye-Kuang-Ji-N-A-Wealthy-Man-Seduce-a-Prostitute_3038_001_00-01-29",
+                    "timeStamp": "01:29",
+                    "start": 90000
+                }
+            ]
+        }
+    ],
+    "segmentCount": 279,
+    "oneshotCount": 4096,
+    "totalCount": 4375
+}

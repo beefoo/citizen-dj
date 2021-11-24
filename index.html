@@ -4,19 +4,14 @@ uid: home
 title: Homepage
 ---
 
-<div class="container">
-  {% include notice.html %}
-</div>
-
 <div id="intro" class="banner">
   <div class="container">
-    <!-- <h1>
+    <h1>
       <img src="{{ site.baseurl }}/img/citizen_dj_logo_inverted.svg" class="banner-image" alt="Citizen DJ Logo, a figure with headphones" />
-    </h1> -->
+    </h1>
     <h1 class="visually-hidden">Citizen DJ</h1>
-    <iframe src="https://player.vimeo.com/video/450541755" width="600" height="375" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     <p class="tagline">
-      Make music using the free-to-use audio and video materials from the <a href="https://www.loc.gov/" target="_blank">Library of Congress</a>
+      <a href="http://brianfoo.com">Brian</a>'s personal <a href="https://citizen-dj.labs.loc.gov/">Citizen DJ</a> instance featuring free-to-use audio collections outside of the <a href="https://www.loc.gov/" target="_blank">Library of Congress</a>.
     </p>
   </div>
 </div>
@@ -65,15 +60,6 @@ title: Homepage
       </div>
       {% endif %}
     {% endfor %}
-    <div class="collection">
-      <img src="{{ site.baseurl }}/img/public_domain_audio_2022_thumb.jpg" alt="A grid of album covers representing the audio contained 2022 public domain release" />
-      <h3>Over 10,000 recordings coming in 2022</h3>
-      <p class="subjects"><em>Music and Spoken word</em></p>
-      <p class="description">On January 1, 2022, all <a href="https://www.loc.gov/collections/national-jukebox/?dates=1800/1922" target="_blank">sound recordings published prior to 1923</a> will enter the public domain and will be free to use and reuse. This will be the first time ever sound recordings will enter the public domain due to copyright expiration.</p>
-      <p class="collection-buttons">
-        <a href="{{ site.baseurl }}/public-domain-2022/" class="button">Learn more</a>
-      </p>
-    </div>
   </div>
 
 </main>
